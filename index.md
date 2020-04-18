@@ -6,6 +6,7 @@
 - Dates TBD.
 - Contact: Mike Heroux <maherou@sandia.gov>, +1 505 379 5518
 
+![](TRES-Logo.png)
 
 ### Details
 - [**Agenda**](Agenda.md)
